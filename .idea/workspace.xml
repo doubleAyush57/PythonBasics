@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52e9c66b-89c3-4449-ba21-d584d48cfe73" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/b_operators_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/b_operators_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d_if_else_elseif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/g_string_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/j_modularity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l_try_catch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m_oop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/c_conditions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "doubleAyush57"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/doubleAyush57/PythonBasics",
@@ -41,10 +58,24 @@
   "keyToString": {
     "Python.a_var_dataTypes.executor": "Run",
     "Python.b_operators_input.executor": "Run",
+    "Python.e_for_loops.executor": "Run",
+    "Python.e_loops.executor": "Run",
+    "Python.f_lists.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.g_string_methods.executor": "Run",
+    "Python.i_files.executor": "Run",
+    "Python.j_modularity.executor": "Run",
+    "Python.l_try_catch.executor": "Run",
+    "Python.m_oop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\4. Learning\PythonBasics" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="a_var_dataTypes" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonBasics" />
@@ -101,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715549709767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1715550000243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715550000243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
