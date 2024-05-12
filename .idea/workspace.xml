@@ -4,24 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e9c66b-89c3-4449-ba21-d584d48cfe73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonBasics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a_var_dataTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b_operators_input.py" afterDir="false" />
+    <list default="true" id="52e9c66b-89c3-4449-ba21-d584d48cfe73" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/b_operators_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/b_operators_input.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/doubleAyush57/PythonBasics",
+    "accountId": "3731f3bf-d87e-4c98-af99-55276408cb3e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -34,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.a_var_dataTypes.executor": "Run",
+    "Python.b_operators_input.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -78,6 +85,27 @@
       <option name="presentableId" value="Default" />
       <updated>1715548379228</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1715549669774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715549669774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1715549709766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715549709767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
